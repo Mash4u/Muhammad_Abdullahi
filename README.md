@@ -33,18 +33,18 @@ I am particularly interested in designing accelerated numerical methods with str
 ## Education
 
 - **PhD in Computational Mathematics**  
-  Central South University, Changsha, China | 2023–Present
+  Central South University, Changsha, China  2023–Present
 
 - **MSc in Applied Mathematics**  
-  Central South University, Changsha, China | 2020–2023
+  Central South University, Changsha, China  2020–2023
 
 - **BSc in Mathematics**  
-  Sule Lamido University, Kafin Hausa, Nigeria | 2014–2018
+  Sule Lamido University, Kafin Hausa, Nigeria  2014–2018
 
 ## Research Experience
 
 ### Doctoral Researcher
-**School of Mathematics and Statistics, Central South University** | 2025–Present
+**School of Mathematics and Statistics, Central South University**  2025–Present
 
 - Conduct research in numerical optimization, nonsmooth and nonconvex optimization, and primal-dual splitting algorithms.
 - Develop and analyse accelerated iterative algorithms for large-scale optimization problems.
@@ -54,7 +54,7 @@ I am particularly interested in designing accelerated numerical methods with str
 - Explore applications in image restoration, machine learning, signal processing, and data-driven optimization.
 
 ### Research Assistant
-**Centre for High Performance Computing, Central South University** | 2020–2023
+**Centre for High Performance Computing, Central South University**  2020–2023
 
 - Established global and Q-linear convergence properties of proposed iterative algorithms.
 - Investigated sufficient descent properties of algorithmic search directions.
@@ -62,7 +62,7 @@ I am particularly interested in designing accelerated numerical methods with str
 - Evaluated the performance of proposed algorithms against existing numerical methods.
 
 ### Research Fellow
-**Numerical Optimization Research Group, Bayero University Kano, Nigeria** | 2020–2022
+**Numerical Optimization Research Group, Bayero University Kano, Nigeria**  2020–2022
 
 - Conducted research on iterative algorithms for solving large-scale systems of nonlinear equations.
 - Contributed to mathematical analysis, convergence proofs, and numerical experiments.
@@ -125,10 +125,10 @@ I am particularly interested in designing accelerated numerical methods with str
 
 ## Scholarships and Awards
 
-- Chinese Government Council Scholarship | 2020
-- Bilateral Education Agreement Scholarship, Federal Scholarship Board, Nigeria | 2020
-- HOD's Prize for Best Graduating Student, Sule Lamido University | 2018
-- Jigawa State Government Scholarship | 2016 and 2018
+- Chinese Government Council Scholarship  2020
+- Bilateral Education Agreement Scholarship, Federal Scholarship Board, Nigeria  2020
+- HOD's Prize for Best Graduating Student, Sule Lamido University  2018
+- Jigawa State Government Scholarship  2016 and 2018
 
 ## Academic Profiles
 
